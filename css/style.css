@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap");
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  main{
+    flex-grow: 1;
+  }
+/*fuente del nav y logo*/
+.titulo{
+    font-family: "Black Han Sans", sans-serif;
+}
